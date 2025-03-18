@@ -34,7 +34,7 @@ This Arduino line follower robot uses a **5-channel line tracking sensor TRCT500
 /Arduino-Line-Follower-Robot │── README.md │── Arduino_Code/ │ └── line_follower_robot.ino
 
 ## 📷 Project Preview
-![Robot Image](./documentation/robot_preview.png)
+![Robot Image](./assets/preview1.gif)
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, and submit pull requests to improve this project!
